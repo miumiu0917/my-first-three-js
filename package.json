@@ -28,6 +28,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "stats-js": "^1.0.1",
     "three": "^0.117.1"
   }
 }
